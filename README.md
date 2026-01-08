@@ -29,6 +29,10 @@ Sonuçları tüm gezegenler için görüntüle.
 
 Çıkış: -1
 
+Çalıştırma
+
+Bu proje C dili ile yazılmıştır ve komut satırından derlenip çalıştırılabilir.
+
  Geliştirici
 
 Merve Gültekin –25360859049- Bilgisayar Mühendisliği (2025–2026 Güz)
@@ -38,5 +42,6 @@ Merve Gültekin –25360859049- Bilgisayar Mühendisliği (2025–2026 Güz)
 Halliday, D., Resnick, R., & Walker, J. Fundamentals of Physics.
 
 Serway, R. A., & Jewett, J. W. Physics for Scientists and Engineers.
+
 
 MIT OpenCourseWare – Classical Mechanics.
